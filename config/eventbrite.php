@@ -14,7 +14,7 @@
 return array(
     'app_key' => '', // obtain from http://www.eventbrite.com/api/key/
     'user_key' => '', // obtain from http://www.eventbrite.com/userkeyapi
-    'api_url' => 'https://www.eventbrite.com/json/',
+    'api_url' => 'http://www.eventbrite.com/json/',
     'secure'  => true, //force secure connection through SSL (https protocol)
 );
 
